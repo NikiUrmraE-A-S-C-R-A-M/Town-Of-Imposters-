@@ -7,8 +7,8 @@ Crew/Imposters
 ![townofimpostors-impostor2](https://user-images.githubusercontent.com/86622134/124164498-b6057200-da6e-11eb-8a0e-d92815a29974.png)
 ![townofimpostors-informant](https://user-images.githubusercontent.com/86622134/124164504-baca2600-da6e-11eb-95e1-d23ea1a8fee0.PNG)
 ![townofimpostors-trickster](https://user-images.githubusercontent.com/86622134/124164523-c289ca80-da6e-11eb-9ca5-2f1919e1aab1.png)
-
-# Installtion 
+# INSTALLATION
+ - First Go To releases  
  - First Download Winrar 
  - Next go To Releases 
  - third click on the first on
